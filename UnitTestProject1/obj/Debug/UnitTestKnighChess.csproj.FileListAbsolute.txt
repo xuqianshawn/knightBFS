@@ -1,0 +1,14 @@
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\obj\Debug\UnitTestKnighChess.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\bin\Debug\Knight.exe
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\bin\Debug\Knight.pdb
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Shawn\Dropbox\MCCY\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\bin\Debug\Knight.exe
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\bin\Debug\Knight.pdb
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\obj\Debug\UnitTestKnighChess.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Shawn\Documents\Handin\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
